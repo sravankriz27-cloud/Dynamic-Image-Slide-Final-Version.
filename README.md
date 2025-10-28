@@ -19,5 +19,5 @@ A simple ReactJS project that displays a dynamic image slider with auto and manu
    ```bash
    git clone https://github.com/devzzzmohan2k/dynamic-image-slider.git
 
-   .
+   
    
