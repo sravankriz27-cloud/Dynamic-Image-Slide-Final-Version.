@@ -21,4 +21,4 @@ A simple ReactJS project that displays a dynamic image slider with auto and manu
 
    
    
-.
+
